@@ -5,9 +5,9 @@ Start your journey on Data Visualisation with Power BI. Learn the key features o
 
 ### Courses 
 
-#### _1.Introduction to Power BI (existing)_
+#### _1. Introduction to Power BI (existing)_
 
-#### 2.The Power BI ecosystem (proposed)
+#### 2. The Power BI ecosystem (proposed)
 **Marketing Description:** 
 Further your understanding of the Power BI ecosystem and how you can harness the power of the 3 main components. In this course, you will learn the pros and cons of the major components of Power BI. You’ll learn how each one compliments the other, and how to maximise the functionalities of each one. Finally, you will get to see real-life examples of each component being utilised and understand how to determine which component best fits the business scenario.
 Learning Objectives:
@@ -15,9 +15,9 @@ Learning Objectives:
 - Learn best practise when it comes to utilising the Power BI Desktop and Power BI Service
 - Learn to evaluate which component is most appropriate to answer different business questions
 
-#### _3.DAX in Power BI (existing)_
+#### _3. DAX in Power BI (existing)_
 
-#### 4.M Language in Power BI (proposed)
+#### 4. M Language in Power BI (proposed)
 **Marketing Description:**
 M language, or Mashup language, is a formula language used in Power Query. In this course we will focus on the use of Power Query within Power BI, and how M language can improve your data transformation capabilities. You will learn how the Power Query Editor utilises M language, while also learning to write your own M language syntax. The course will also take you through practical uses of M functions, teaching you how to formulate your own data transformation in Power Query.
 Learning Objectives
@@ -25,9 +25,9 @@ Learning Objectives
 - Learn to distinguish the differences behind M and DAX, and how each is utilised 
 - Learn how to optimise data transformation processes in Power Query through the application of M Language
 
-#### _5.Data Visualisation In Power BI (existing)_
+#### _5. Data Visualisation In Power BI (existing)_
 
-#### 6.Case Study: KPI Reporting in Power BI (proposed)
+#### 6. Case Study: KPI Reporting in Power BI (proposed)
 **Marketing Description:**
 It is time to apply your Power BI skills to a real-world project! Key Performance Indicators (KPIs) are important to any business department, as they help measure how effectively a department is reaching its objectives. In this Power BI case study, you’ll investigate a dataset from an example car dealership company called AutoWheels. You will be introduced to the KPIs of the sales department, and you will help the company figure out how they are performing and if they are meeting their targets. You will find ways to visualisation the data to share your insights, while ensuring the reporting is interactive and can be viewed through different Power BI platforms.
 Learning Objectives
