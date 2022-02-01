@@ -5,7 +5,7 @@ Start your journey on Data Visualisation with Power BI. Learn the key features o
 
 ### Courses 
 
-#### Introduction to Power BI (existing)
+#### _Introduction to Power BI (existing)_
 
 #### The Power BI ecosystem (proposed)
 **Marketing Description:** 
@@ -15,7 +15,7 @@ Learning Objectives:
 - Learn best practise when it comes to utilising the Power BI Desktop and Power BI Service
 - Learn to evaluate which component is most appropriate to answer different business questions
 
-#### DAX in Power BI (existing)
+#### _DAX in Power BI (existing)_
 
 #### M Language in Power BI (proposed)
 **Marketing Description:**
@@ -25,7 +25,7 @@ Learning Objectives
 - Learn to distinguish the differences behind M and DAX, and how each is utilised 
 - Learn how to optimise data transformation processes in Power Query through the application of M Language
 
-#### Data Visualisation In Power BI (existing)
+#### _Data Visualisation In Power BI (existing)_
 
 #### Case Study: KPI Reporting in Power BI (proposed)
 **Marketing Description:**
