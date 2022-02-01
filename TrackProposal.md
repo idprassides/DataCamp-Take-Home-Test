@@ -8,7 +8,7 @@ Start your journey on Data Visualisation with Power BI. Learn the key features o
 #### Introduction to Power BI (existing)
 
 #### The Power BI ecosystem (proposed)
-** Marketing Description: ** 
+**Marketing Description:** 
 Further your understanding of the Power BI ecosystem and how you can harness the power of the 3 main components. In this course, you will learn the pros and cons of the major components of Power BI. You’ll learn how each one compliments the other, and how to maximise the functionalities of each one. Finally, you will get to see real-life examples of each component being utilised and understand how to determine which component best fits the business scenario.
 Learning Objectives:
 - Learn the pros and cons of the 3 major components in the Power BI ecosystem
