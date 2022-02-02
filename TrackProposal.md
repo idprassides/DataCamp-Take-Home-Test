@@ -1,19 +1,21 @@
 # Track Proposal
 
 ## Power BI Fundamentals
-Start your journey on Data Visualisation with Power BI. Learn the key features of Power BI, discover the power of data storytelling, and create your own analytical reports.
+Start your Data Visualisation journey with Power BI. Learn the key features of Power BI, discover the power of data storytelling, and create your own analytical reports.
 
 ### Courses 
 
 #### _1. Introduction to Power BI (existing)_
 
-#### 2. The Power BI ecosystem (proposed)
+#### 2. The Power BI Ecosystem (proposed)
 **Marketing Description:** 
-Further your understanding of the Power BI ecosystem and how you can harness the power of the 3 main components. In this course, you will learn the pros and cons of the major components of Power BI. You’ll learn how each one compliments the other, and how to maximise the functionalities of each one. Finally, you will get to see real-life examples of each component being utilised and understand how to determine which component best fits the business scenario.
+Further your understanding of the Power BI ecosystem, so that you can harness the power of the 3 main components. In this course, you will learn the pros and cons of the major components of Power BI. You’ll learn how each one compliments the other, and how to maximise the functionalities of each. Finally, you will get to see real-life examples of each component being utilised and understand how to determine which component best fits a business scenario.
 Learning Objectives:
 - Learn the pros and cons of the 3 major components in the Power BI ecosystem
 - Learn best practise when it comes to utilising the Power BI Desktop and Power BI Service
 - Learn to evaluate which component is most appropriate to answer different business questions
+
+_Course Prerequiste: Some basic prior knowledge of Power BI will help the learner gain the most out of this course._
 
 #### _3. DAX in Power BI (existing)_
 
@@ -25,12 +27,16 @@ Learning Objectives
 - Learn to distinguish the differences behind M and DAX, and how each is utilised 
 - Learn how to optimise data transformation processes in Power Query through the application of M Language
 
+_Course Prerequiste: Some knowledge of DAX and Power Query will help the learner gain the most out of this course._
+
 #### _5. Data Visualisation In Power BI (existing)_
 
 #### 6. Case Study: KPI Reporting in Power BI (proposed)
 **Marketing Description:**
-It is time to apply your Power BI skills to a real-world project! Key Performance Indicators (KPIs) are important to any business department, as they help measure how effectively a department is reaching its objectives. In this Power BI case study, you’ll investigate a dataset from an example car dealership company called AutoWheels. You will be introduced to the KPIs of the sales department, and you will help the company figure out how they are performing and if they are meeting their targets. You will find ways to visualisation the data to share your insights, while ensuring the reporting is interactive and can be viewed through different Power BI platforms.
+It is time to apply your Power BI skills to a real-world project! Key Performance Indicators (KPIs) are important to any business department, as they help measure how effectively a department is reaching its objectives. In this Power BI case study, you’ll investigate a dataset from an example car dealership company called AutoWheels. You will be introduced to the KPIs of the sales department, and you will help the company figure out how they are performing and if they are meeting their targets. Finally, you will find ways to visualisation the data to share your insights, while ensuring the reporting is interactive and can be viewed through different Power BI platforms.
 Learning Objectives
-- Learn to understand a business reporting need and analyse the provided data to summarise the key components of a KPI report
+- Learn to understand a business reporting need and analyse the provided data in order to create a KPI report
 - Learn to apply your Power BI skills to bring to life the data and develop a compelling analytical story
 - Learn to compile output that can be viewed on different Power BI platforms, suitable for all types of business audiences
+
+_Course Prerequiste: A good understanding of Power BI will help the learner gain the most out of this course._
