@@ -11,20 +11,20 @@
 1. Learner will be able to summarise the advantages and disadvantages of each of the 3 major components of Power BI
 
 ### Chapter 2: The Service & App Components 
-#### Lesson 1.1 – The Power BI Digital World
+#### Lesson 2.1 – The Power BI Digital World
 1. Learner will be able to discuss the main features of the Power BI Service and Power BI App components 
-#### Lesson 1.2 – Automation Features
+#### Lesson 2.2 – Automation Features
 1. Learner will be able to illustrate how reports can be automated and made self-serving using the Power BI Service platform 
 
 ### Chapter 3: Power BI Desktop
-#### Lesson 1.1 – A Deeper Understanding
+#### Lesson 3.1 – A Deeper Understanding
 1. Learner will be able to identify a wide range of features of Power BI Desktop 
-#### Lesson 1.2 – Fit for Purpose
+#### Lesson 3.2 – Fit for Purpose
 1. Learner will be able to infer how Power BI Desktop can be applied to different scenarios
 
 ### Chapter 4: Combining the Key Components
-#### Lesson 1.1 – Dissecting a Business Question
+#### Lesson 4.1 – Dissecting a Business Question
 1. Learner will be able to evaluate an example business scenario to determine which Power BI components are appropriate to use
-#### Lesson 1.2 – Utilising the Ecosystem
+#### Lesson 4.2 – Utilising the Ecosystem
 1. Learner will be able to design a reporting output from start to finish 
 2. Learner will be able to construct a reporting plan using all major components covered in the course
