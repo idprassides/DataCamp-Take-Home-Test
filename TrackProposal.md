@@ -15,7 +15,7 @@ Learning Objectives:
 - Learn best practise when it comes to utilising the Power BI Desktop and Power BI Service
 - Learn to evaluate which component is most appropriate to answer different business questions
 
-_Course Prerequiste: Some basic prior knowledge of Power BI will help the learner gain the most out of this course._
+_Course Prerequisite: Some basic prior knowledge of Power BI will help the learner gain the most out of this course._
 
 #### _3. DAX in Power BI (existing)_
 
@@ -27,7 +27,7 @@ Learning Objectives
 - Learn to distinguish the differences behind M and DAX, and how each is utilised 
 - Learn how to optimise data transformation processes in Power Query through the application of M Language
 
-_Course Prerequiste: Some knowledge of DAX and Power Query will help the learner gain the most out of this course._
+_Course Prerequisite: Some knowledge of DAX and Power Query will help the learner gain the most out of this course._
 
 #### _5. Data Visualisation In Power BI (existing)_
 
@@ -39,4 +39,4 @@ Learning Objectives
 - Learn to apply your Power BI skills to bring to life the data and develop a compelling analytical story
 - Learn to compile output that can be viewed on different Power BI platforms, suitable for all types of business audiences
 
-_Course Prerequiste: A good understanding of Power BI will help the learner gain the most out of this course._
+_Course Prerequisite: A good understanding of Power BI will help the learner gain the most out of this course._
