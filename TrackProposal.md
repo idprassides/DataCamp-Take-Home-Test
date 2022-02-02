@@ -29,7 +29,7 @@ Learning Objectives
 
 _Course Prerequisite: Some knowledge of DAX and Power Query will help the learner gain the most out of this course._
 
-#### _5. Data Visualisation In Power BI (existing)_
+#### _5. Data Visualisation in Power BI (existing)_
 
 #### 6. Case Study: KPI Reporting in Power BI (proposed)
 **Marketing Description:**
